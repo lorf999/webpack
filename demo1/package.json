@@ -1,0 +1,29 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "webpack demo1",
+  "main": "index.js",
+  "scripts": {
+  "bulid":"webpack --config=config/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorf999/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorf999/webpack/issues"
+  },
+  "homepage": "https://github.com/lorf999/webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    
+  }
+}
